@@ -14,7 +14,7 @@ Before starting my Master's in IS Management, I wanted to challenge myself by bu
 * **Logic:** use of Regex (`re`) to parse and calculate percentages dynamically.
 
 ## 📸 Preview
-![Calculator Screenshot](<img width="502" height="672" alt="image" src="https://github.com/user-attachments/assets/3e4f3f9d-f56c-4e69-83c7-c94c9aa412a6" />)
+![Calculator Screenshot](<img width="521" height="697" alt="calculator" src="https://github.com/user-attachments/assets/dd16ea46-10e8-4b82-bea6-7456159ba02c" />)
 *(Note: If the image doesn't load, please run the code to see the interface!)*
 
 ## 🛠️ Technologies Used
