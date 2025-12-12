@@ -112,8 +112,3 @@ fenetre.mainloop()
 
 
 
-# executer le code:  
-
-# cd "C:\Users\kadet\OneDrive\Bureau\CODE\Python
-
-# python Calculatrice.py
