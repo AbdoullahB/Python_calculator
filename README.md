@@ -9,9 +9,10 @@ Before starting my Master's in IS Management, I wanted to challenge myself by bu
 ## ✨ Features
 * **User Interface:** Clean and colorful GUI using `tkinter`.
 * **Dual Input:** Works with both mouse clicks and **keyboard input** (Numpad support).
+* **Responsive Layout:** The interface adapts automatically when resizing the window.
 * **Operations:** Basic arithmetic (+, -, *, /) and **percentage handling**.
 * **Robustness:** Includes error handling (avoids crashing on invalid divisions).
-* **Logic:** use of Regex (`re`) to parse and calculate percentages dynamically.
+* **Logic:** Use of Regex (`re`) to parse and calculate percentages dynamically.
 
 ## 📸 Preview
 ![Calculator Screenshot](calculator.png)
